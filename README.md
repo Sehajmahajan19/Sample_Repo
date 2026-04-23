@@ -12,3 +12,6 @@ Bhavya Chadha
 
 ## Contribution by Sehaj Mahajan
 This content is added as part of peer collaboration experiment.
+
+## Changes from GitBash
+This is my first GitHub project
