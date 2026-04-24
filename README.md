@@ -11,7 +11,7 @@ This repository is created for performing Git and GitHub lab exercises as part o
 Bhavya Chadha
 
 ## Contribution by Sehaj Mahajan
-This content is added as part of peer collaboration experiment.
+This content is added as part of peer collaboration experiment for OSS project
 
 ## Changes from GitBash
 This is my first GitHub project
